@@ -25,6 +25,7 @@ class AbilitesTestType extends StatelessWidget {
               const Spacer(),
               Column(
                 mainAxisSize: MainAxisSize.min,
+                crossAxisAlignment: CrossAxisAlignment.end,
                 children: [
                   Text(
                     text,
